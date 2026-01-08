@@ -4,10 +4,10 @@ WebRTC tabanlı gerçek zamanlı video ve ses iletişimi için cross-platform SD
 
 ## Desteklenen Platformlar
 
-| Platform | Minimum Versiyon | SDK Versiyonu |
-|----------|------------------|---------------|
-| **Android** | API 24 (Android 7.0) | 1.0.1 |
-| **iOS** | iOS 13+ | 1.0 |
+| Platform | Minimum Versiyon |
+|----------|------------------|
+| **Android** | API 24 (Android 7.0) |
+| **iOS** | iOS 13+ |
 
 ## Özellikler
 
