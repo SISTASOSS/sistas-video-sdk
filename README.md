@@ -11,7 +11,7 @@ WebRTC tabanlı gerçek zamanlı video ve ses iletişimi için cross-platform SD
 
 ## Özellikler
 
-- WebRTC tabanlı video/audio çağrı
+- WebRTC tabanlı video çağrı
 - SIP protokolü desteği
 - WebSocket üzerinden sinyal iletimi
 - Otomatik yeniden bağlanma mekanizması
