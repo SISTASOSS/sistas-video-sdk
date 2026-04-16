@@ -24,7 +24,6 @@ WebRTC tabanlı gerçek zamanlı video ve ses iletişimi için cross-platform SD
 
 ---
 
-
 # Örnek Uygulamalar (Sample Apps)
 
 SDK'yı daha hızlı test etmek ve entegrasyonu anlamak için örnek uygulamaları inceleyebilirsiniz:
@@ -37,6 +36,7 @@ Bu sayfada:
 - iOS örnek uygulama
 
 bulunmaktadır.
+
 ---
 # Android Entegrasyonu
 
