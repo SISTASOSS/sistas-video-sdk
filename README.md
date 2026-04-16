@@ -23,6 +23,20 @@ WebRTC tabanlı gerçek zamanlı video ve ses iletişimi için cross-platform SD
 - ICE restart desteği
 
 ---
+---
+
+# Örnek Uygulamalar (Sample Apps)
+
+SDK'yı daha hızlı test etmek ve entegrasyonu anlamak için örnek uygulamaları inceleyebilirsiniz:
+
+👉 https://www.sistas.com.tr/SistasRTC/app/index.html
+
+Bu sayfada:
+
+- Android örnek uygulama
+- iOS örnek uygulama
+
+bulunmaktadır.
 
 # Android Entegrasyonu
 
