@@ -23,7 +23,7 @@ WebRTC tabanlı gerçek zamanlı video ve ses iletişimi için cross-platform SD
 - ICE restart desteği
 
 ---
----
+
 
 # Örnek Uygulamalar (Sample Apps)
 
@@ -37,7 +37,7 @@ Bu sayfada:
 - iOS örnek uygulama
 
 bulunmaktadır.
-
+---
 # Android Entegrasyonu
 
 ## Gereksinimler
